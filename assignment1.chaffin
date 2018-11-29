@@ -206,3 +206,46 @@ Changes not staged for commit:
 	modified:   assignment1.chaffin
 	deleted:    more
 
+On branch master
+nothing to commit, working tree clean
+commit a069071b690737ef0ad8d2ba4696b1550bfdc9b1
+Author: Mark Chaffin <mark.chaffin@akimbosolutions.com>
+Date:   Sun Sep 16 22:54:13 2018 -0500
+
+    final commit
+
+commit a72e47976f5c32225ee7de4766b4ff011c6ff483
+Author: Mark Chaffin <mark.chaffin@akimbosolutions.com>
+Date:   Sun Sep 16 22:49:51 2018 -0500
+
+    adding third recipe
+
+commit 6ef4fe399b8a77cde25a4b4fcb04232e8a0c7cb5
+Author: Mark Chaffin <mark.chaffin@akimbosolutions.com>
+Date:   Sun Sep 16 22:44:23 2018 -0500
+
+    adding third recipe
+
+commit 7cb10a03b5e79e39781c19137d2785461c48d73d
+Author: Mark Chaffin <mark.chaffin@akimbosolutions.com>
+Date:   Sun Sep 16 22:40:18 2018 -0500
+
+    adding third recipe
+
+commit 917642e759ebd9373d6ab0a0928fd4530bb03d72
+Author: Mark Chaffin <mark.chaffin@akimbosolutions.com>
+Date:   Sun Sep 16 22:33:23 2018 -0500
+
+    Adding chapter 3 Dinner recipes
+
+commit 62b64dab5b6ed2e846a444a73e79ffb276422209
+Author: Mark Chaffin <mark.chaffin@akimbosolutions.com>
+Date:   Sun Sep 16 22:33:03 2018 -0500
+
+    Adding chapter 2 Lunch recipes
+
+commit 919fca17e24d29ffd4e9740d6ff3203f230acc28
+Author: Mark Chaffin <mark.chaffin@akimbosolutions.com>
+Date:   Sun Sep 16 22:32:36 2018 -0500
+
+    Adding chapter 1 Breakfast recipes
